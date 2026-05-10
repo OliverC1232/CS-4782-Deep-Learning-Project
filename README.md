@@ -1,28 +1,29 @@
 # CS-4782-Deep-Learning-Project
 
 
-1. Introduction
+# 1. Introduction
+
 In this GitHub Repository, we present our implementation of the paper "Investigating the Limitations of Transformers with Simple Arithmetic Tasks". The main finding of this paper is how altering the surface representation of digits overcomes some of the limitations of Transformers and leads to significantly higher accuracy on arithmetic tasks.
 
-2. Chosen Result
+3. Chosen Result
 [addition task, reference graph/figure in paper...]
 
-3. Github Contents
+4. Github Contents
 
 
-4. Re-implementation Details
+5. Re-implementation Details
 
 
-5. Reproduction Steps
+6. Reproduction Steps
 
 
-6. Results/Insights
+7. Results/Insights
 
 
-7. Conclusion
+8. Conclusion
 Our re-implementation confirms the paper's findings 
 
-8. References
+9. References
 
 Original Paper: “Investigating the Limitations of Transformers with Simple Arithmetic Tasks” Rodrigo Nogueira, Zhiying Jiang & Jimmy Lin 
 April 12, 2021 

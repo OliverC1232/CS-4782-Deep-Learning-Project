@@ -2,19 +2,35 @@
 
 
 1. Introduction
+In this GitHub Repository, we present our implementation of the paper "Investigating the Limitations of Transformers with Simple Arithmetic Tasks". The main finding of this paper is how altering the surface representation of digits overcomes some of the limitations of Transformers and leads to significantly higher accuracy on arithmetic tasks.
 
 2. Chosen Result
+[addition task, reference graph/figure in paper...]
 
 3. Github Contents
 
+
 4. Re-implementation Details
+
 
 5. Reproduction Steps
 
+
 6. Results/Insights
 
+
 7. Conclusion
+Our re-implementation confirms the paper's findings 
 
 8. References
+
+Original Paper: “Investigating the Limitations of Transformers with Simple Arithmetic Tasks” Rodrigo Nogueira, Zhiying Jiang & Jimmy Lin 
+April 12, 2021 
+https://arxiv.org/pdf/2102.13019
+
+T5 Model: ‘Exploring the limits of transfer learning with a unified text-to-text transformer’ 
+Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu 
+Journal of Machine Learning Research, 2020
+https://arxiv.org/pdf/1910.10683
 
 9. Acknowledgements

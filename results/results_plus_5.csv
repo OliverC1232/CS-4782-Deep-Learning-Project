@@ -1,0 +1,8 @@
+Dataset,Accuracy
+arithmetic_underscore_plus_5.csv,0.712
+arithmetic_character_plus_5.csv,0.671
+arithmetic_decimal_plus_5.csv,0.145
+arithmetic_10_based_plus_5.csv,0.816
+arithmetic_words_plus_5.csv,0.725
+arithmetic_10E_based_plus_5.csv,0.809
+arithmetic_fixed_character_plus_5.csv,0.877

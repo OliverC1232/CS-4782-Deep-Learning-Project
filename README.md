@@ -1,5 +1,6 @@
 # CS-4782-Deep-Learning-Project
 
+Project Team: Oliver Cheung, Kevin Biligunn, Vijay Krishnamoorthy, Alif Abdullah
 
 # 1. Introduction
 

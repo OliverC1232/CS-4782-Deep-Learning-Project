@@ -3,7 +3,6 @@
 Project Team: Oliver Cheung, Kevin Biliguun, Vijay Krishnamoorthy, Alif Abdullah
 
 ### 1. Introduction
-
 In this GitHub Repository, we present our implementation of the paper "Investigating the Limitations of Transformers with Simple Arithmetic Tasks". The main finding of this paper is how altering the surface representation of digits overcomes some of the limitations of Transformers and leads to significantly higher accuracy on arithmetic tasks.
 
 
@@ -24,7 +23,8 @@ In this GitHub Repository, we present our implementation of the paper "Investiga
 
 
 ### 7. Conclusion
-Our re-implementation confirms the paper's findings 
+Our re-implementation confirms the paper's findings about which representations have the best performance. 
+We also explored extensions that weren't covered in the main section of the paper. We tested multiplication, but achieved lower accuracy, which suggests that the paper's methods do not generalize well to more complex operations. We found that extrapolation was possible, but high accuracy was achieved only with the 10E-Based representation. Finally, we combined features of multiple representations, and found this to achieve similar levels of accuracy to the representations mentioned in the paper.
 
 ### 8. References
 

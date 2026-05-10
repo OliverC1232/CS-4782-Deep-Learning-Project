@@ -2,29 +2,31 @@
 
 Project Team: Oliver Cheung, Kevin Biligunn, Vijay Krishnamoorthy, Alif Abdullah
 
-# 1. Introduction
+### 1. Introduction
 
 In this GitHub Repository, we present our implementation of the paper "Investigating the Limitations of Transformers with Simple Arithmetic Tasks". The main finding of this paper is how altering the surface representation of digits overcomes some of the limitations of Transformers and leads to significantly higher accuracy on arithmetic tasks.
 
-3. Chosen Result
+
+
+### 2. Chosen Result
 [addition task, reference graph/figure in paper...]
 
-4. Github Contents
+### 3. Github Contents
 
 
-5. Re-implementation Details
+### 4. Re-implementation Details
 
 
-6. Reproduction Steps
+### 5. Reproduction Steps
 
 
-7. Results/Insights
+### 6. Results/Insights
 
 
-8. Conclusion
+### 7. Conclusion
 Our re-implementation confirms the paper's findings 
 
-9. References
+### 8. References
 
 Original Paper: “Investigating the Limitations of Transformers with Simple Arithmetic Tasks” Rodrigo Nogueira, Zhiying Jiang & Jimmy Lin 
 April 12, 2021 
@@ -35,4 +37,4 @@ Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael 
 Journal of Machine Learning Research, 2020
 https://arxiv.org/pdf/1910.10683
 
-9. Acknowledgements
+### 9. Acknowledgements

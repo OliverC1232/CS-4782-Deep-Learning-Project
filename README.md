@@ -1,6 +1,6 @@
 # CS 4782 Deep Learning Project
-
-Project Team: Oliver Cheung, Kevin Biliguun, Vijay Krishnamoorthy, Alif Abdullah  
+### Based on the paper: Investigating the Limitations of Transformers with Simple Arithmetic Tasks
+### Project Team: Oliver Cheung, Kevin Biliguun, Vijay Krishnamoorthy, Alif Abdullah  
 Please see our final report (located in `/report`) for further detail.
 
 ### 1. Introduction

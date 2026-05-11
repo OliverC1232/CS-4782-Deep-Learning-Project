@@ -19,7 +19,7 @@ We chose to replicate the main result of the paper (see Figure 1 displayed below
 
 
 ### 4. Re-implementation Details
-First, we generate our own datasets consisting of 22,000 arithmetic tasks. We then fine-tune on a pretrained T5-base model (220 million parameters). We train on 20 epochs - this is lower than suggested in the paper due to Google Colab's compute usage limitations. We evaluate the representations on the accuracy achieved on the unseen validation dataset (e.g. 0.8 means the model got 80% of the arithmetic tasks in the validation set correct).
+First, we generate our own datasets consisting of 22,000 arithmetic tasks. We then fine-tune on a pretrained T5-base model (220 million parameters). We train on 20 epochs - this is lower than suggested in the paper due to Google Colab's compute usage limitations. We evaluate the representations on the accuracy achieved on the unseen test dataset (e.g. 0.8 means the model got 80% of the arithmetic tasks in the test set correct).
 
 
 ### 5. Reproduction Steps

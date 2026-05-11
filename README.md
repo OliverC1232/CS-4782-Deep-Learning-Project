@@ -1,6 +1,7 @@
 # CS-4782-Deep-Learning-Project
 
 Project Team: Oliver Cheung, Kevin Biliguun, Vijay Krishnamoorthy, Alif Abdullah
+Please see our final report (located in `/report`) for further detail.
 
 ### 1. Introduction
 In this GitHub Repository, we present our implementation of the paper "Investigating the Limitations of Transformers with Simple Arithmetic Tasks". The main finding of this paper is how altering the surface representation of digits overcomes some of the limitations of Transformers and leads to significantly higher accuracy on arithmetic tasks.
@@ -8,12 +9,16 @@ In this GitHub Repository, we present our implementation of the paper "Investiga
 
 
 ### 2. Chosen Result
-[addition task, reference graph/figure in paper...]
+We chose to replicate the main result of the paper (see Figure 1 displayed below). 10-based and 10E-based representations performed the best, whilst the decimal representation had the worst accuracy. The legend in Figure 1 gives examples for what these representations look like.
+
+<img width="1073" height="435" alt="image" src="https://github.com/user-attachments/assets/d7c692ab-5b20-48e7-8b90-9494834dd327" />
+
 
 ### 3. Github Contents
 
 
 ### 4. Re-implementation Details
+
 
 
 ### 5. Reproduction Steps

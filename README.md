@@ -27,7 +27,8 @@ First, we generate our own datasets consisting of 22,000 arithmetic tasks. We th
 
 
 ### 5. Reproduction Steps
-Our repo can be easily implemented by running the `.ipynb` Python notebook found in the `/code` folder. Best results are obtained by running on Google Colab with the A100 GPU - be sure to mount your Google Drive (using the code provided) to store the dataset that the notebook generates. Our code will install/import the following libraries: `os`, `numpy`, `random`, `num2words`, `pandas`, `datasets`, `transformers`, `re`, `torch`, `tqdm`, `csv`.
+Our repo can be easily implemented by running the `.ipynb` Python notebook found in the `/code` folder. You can either use the datasets we provide or generate your own dataset of arithmetic tasks. Information for dataset generation, including parameter choice, can be found in the [data README](https://github.com/OliverC1232/CS-4782-Deep-Learning-Project/blob/main/data/README.md).
+Best results are obtained by running on Google Colab with the A100 GPU - be sure to mount your Google Drive (using the code provided) to store the dataset that the notebook generates. Our code will install/import the following libraries: `os`, `numpy`, `random`, `num2words`, `pandas`, `datasets`, `transformers`, `re`, `torch`, `tqdm`, `csv`.
 
 ### 6. Main Results & Insights
 Our results for the addition task (Figure 2) show similar trents to the paper's findings. 10-based and 10E-based representations were most robust, consistently achieving around 80% accuracy across all 3 digit lengths we tested on. Decimal was the worst-performing representation by far, and drops off to around 0.02 accuracy for 15 digits. Underscore and Words performed well for 5 and 10 digits but accuracy declined sharply at 15 digits - this is also similar to the paper's results. 

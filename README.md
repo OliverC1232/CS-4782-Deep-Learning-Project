@@ -1,4 +1,4 @@
-# CS-4782-Deep-Learning-Project
+# CS 4782 Deep Learning Project
 
 Project Team: Oliver Cheung, Kevin Biliguun, Vijay Krishnamoorthy, Alif Abdullah
 Please see our final report (located in `/report`) for further detail.
@@ -15,6 +15,8 @@ We chose to replicate the main result of the paper (see Figure 1 displayed below
 
 
 ### 3. Github Contents
+1. 
+2. 
 
 
 ### 4. Re-implementation Details
@@ -22,7 +24,7 @@ We chose to replicate the main result of the paper (see Figure 1 displayed below
 
 
 ### 5. Reproduction Steps
-
+Our repo can be easily implemented by running the `.ipynb` Python notebook found in the `/code` folder. Best results are obtained by running on Google Colab with the A100 GPU - be sure to mount your Google Drive (using the code provided) to store the dataset that the notebook generates. Our code will install/import the following libraries: `os`, `numpy`, `random`, `num2words`, `pandas`, `datasets`, `transformers`, `re`, `torch`, `tqdm`, `csv`.
 
 ### 6. Results/Insights
 
@@ -43,3 +45,4 @@ Journal of Machine Learning Research, 2020
 https://arxiv.org/pdf/1910.10683
 
 ### 9. Acknowledgements
+This repository was submitted for a course at Cornell University, namely CS4782 - Deep Learning, taught by Professors Kilian Weinberger and Wei-Chiu Ma. We thank them and the TAs for their teaching and guidance through the Spring '26 semester. The poster was presented to and graded by course staff and fellow students.

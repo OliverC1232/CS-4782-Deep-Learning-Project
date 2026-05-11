@@ -18,7 +18,7 @@ We chose to replicate the main result of the paper (see Figure 1 displayed below
 2. [The datasets we generated and used for the project (as csv files)](https://github.com/OliverC1232/CS-4782-Deep-Learning-Project/tree/main/data)
 3. [Our code for re-implementation](https://github.com/OliverC1232/CS-4782-Deep-Learning-Project/blob/main/code/CS4782FinalProject.ipynb)
 4. [Our results for both the main chosen results and extensions](https://github.com/OliverC1232/CS-4782-Deep-Learning-Project/tree/main/results)
-5. [Final Report](https://github.com/OliverC1232/CS-4782-Deep-Learning-Project/blob/main/report/report.docx)
+5. [Final Report](https://github.com/OliverC1232/CS-4782-Deep-Learning-Project/blob/main/report/Investigating_Limitations_of_Transformers_with_Simple_Arithmetic_Tasks_2page_report.pdf)
 6. [Copy of the poster we presented in class](https://github.com/OliverC1232/CS-4782-Deep-Learning-Project/blob/main/poster/CS4782%20Poster%20-%20Final%20Version.pdf)
 
 
